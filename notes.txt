@@ -1,1 +1,2 @@
 These are my collaboration notes.
+Student A added this: My primary role will be to focus on backend architecture.
